@@ -2,6 +2,6 @@
 entry daw
 
 
-Tasks:
+**Tasks:**
 - [ ] Cheerdance
-- [x] Feature article
+- [x] ~~Feature article~~
